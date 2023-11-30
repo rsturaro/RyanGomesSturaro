@@ -1,73 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ryan Gomes Sturaro - GitHub Profile</title>
-  <style>
-    body {
-      background-color: #000;
-      color: #fff;
-      font-family: 'Arial', sans-serif;
-      text-align: center;
-    }
-
-    header {
-      padding: 2rem;
-      background-color: #111;
-    }
-
-    section {
-      padding: 2rem;
-      position: relative; /* Adicionado para posicionar as estrelas em relação a esta seção */
-    }
-
-    footer {
-      padding: 1rem;
-      background-color: #111;
-    }
-
-    @keyframes twinkling {
-      0% { opacity: 1; }
-      50% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-
-    .star {
-      position: absolute;
-      width: 2px;
-      height: 2px;
-      background-color: #fff;
-      border-radius: 50%;
-      animation: twinkling 2s infinite;
-    }
-
-    /* Adicionando uma classe adicional para uma estrela maior */
-    .star.large {
-      width: 5px;
-      height: 5px;
-    }
-  </style>
-</head>
-<body>
-
-  <header>
-    <h1>Ryan Gomes Sturaro</h1>
-  </header>
-
-  <section>
-    <p>Estudo Engenharia de Software</p>
-    <!-- Adicionei estrelas para um toque espacial -->
-    <div class="star" style="top: 20%; left: 30%;"></div>
-    <div class="star large" style="top: 50%; left: 70%;"></div>
-    <!-- Adicione mais estrelas conforme necessário -->
-  </section>
-
-  <footer>
-    <p>&copy; 2023 Ryan Gomes Sturaro</p>
-  </footer>
-
-</body>
-</html>
-
-    
+## Eu sou o Ryan Gomes Sturaro, Estudo Engenharia de Software
+<div align="center">
+  <a href="https://github.com/rsturaro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsturaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsturaro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/ryan.sturaro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSHxjWHWdJTdMbGcDpmbWJmzlFJjjkjxxSxgmKwnCXzxbphPDCMxlgljDxpknPRQbjJDvwJK"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ryansturaro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  </div>
