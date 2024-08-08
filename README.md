@@ -6,7 +6,7 @@ Conheça-me melhor nos ícones de contato 😉
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ryan-AWS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)">
+  <img align="center" alt="Ryan-AWS" height="30" width="40" src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)"](https://icons8.com.br/icon/33039/amazon-web-services)>
 
 </div>
 <div
