@@ -1,5 +1,5 @@
 ## Ryan Gomes Sturaro | Engenharia de Software
-Atualmente estou no 6° semestre da faculdade e estudo AWS e DEVOPS
+## Atualmente estou no 6° semestre da faculdade e estudo AWS e DEVOPS. Conheça-me melhor nos ícones de contato!
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
