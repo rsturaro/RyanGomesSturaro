@@ -1,5 +1,8 @@
 ## Ryan Gomes Sturaro | Engenharia de Software 👨🏼‍🎓
 <b>Atualmente estou no 7° semestre da faculdade 💻📚</b>
+
+##[Baixe meu Currículo!](Curriculo Ryan Gomes Sturaro.pdf)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
