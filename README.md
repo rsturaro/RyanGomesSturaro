@@ -6,7 +6,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ryan-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Ryan-AWS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
+  <img align="center" alt="Ryan-AWS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
 
 
 </div>
